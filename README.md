@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Eldhose Poulose
 
 ![](https://komarev.com/ghpvc/?username=eldhosepoulose&color=blueviolet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 I hold a Bachelor's in Electronics and Communication Engineering from India, Master's in Computational Life Sciences from Switzerland and currently pursuing the second master's in Artificial Intelligence and Data Science in Germany. My ultimate goal is to work as an AI Engineer. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
