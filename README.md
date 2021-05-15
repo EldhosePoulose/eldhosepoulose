@@ -10,7 +10,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 - 👯 I’m looking to collaborate on Course Creations.
 - 💬 Talk to me about: Travelling, Technology, Interior Designs or anything that interests you.
 - 📚 The Singularity Is Near: When Humans Transcend Biology Book by Ray Kurzweil
-- 🛸 Visited : 🇨🇭Switzerland 🇩🇪 Germany 🇦🇹 Austria 🇫🇷 France 🇮🇳 India
+- 🛸 Visited/Lived: 🇨🇭Switzerland 🇩🇪 Germany 🇦🇹 Austria 🇫🇷 France 🇮🇳 India
 - 🛸 Places to Visit: 🇮🇪 Ireland 🇸🇪 Sweden 🇳🇴 Norway 🇫🇮 Finland 🇩🇰 Denmark 🇨🇿 Czech 
 
 **My Skills include**
