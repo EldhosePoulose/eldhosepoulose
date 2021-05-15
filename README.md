@@ -15,7 +15,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 
 **My Skills include**
 
-<img src= "python.svg" width= "50"> <img src= "Rlogo.svg" width= "50"> <img src= "matlab.svg.jpg" width= "50"> <img src= "git.svg" width= "50"> <img src= "linux-tux.svg" width= "50"> <img src= "aws-svg" width= "50"> <img src= "LaTeX_laogo.svg.png" width= "50">
+<img src= "python.svg" width= "50"> <img src= "Rlogo.svg" width= "50"> <img src= "matlab.svg.jpg" width= "50"> <img src= "git.svg" width= "50"> <img src= "linux-tux.svg" width= "50"> <img src= "aws.svg" width= "50"> <img src= "LaTeX_logo.svg.png" width= "50">
 
 
 **Certifictions**
