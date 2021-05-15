@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Eldhose Poulose 🧔🏻
 
-![](https://komarev.com/ghpvc/?username=eldhosepoulose&color=blueviolet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![](https://komarev.com/ghpvc/?username=eldhosepoulose&color=blueviolet)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pouloseeldhose/)
 
 
