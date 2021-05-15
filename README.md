@@ -25,6 +25,10 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 **Certifictions**
 TBD
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/pouloseeldhose/"
 
 
 
