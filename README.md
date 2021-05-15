@@ -16,7 +16,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 **My Skills include**
 
 Python R Matlab Git Linux AWS LaTeX
-![alt text]()
+![alt text](https://github.com/EldhosePoulose/eldhosepoulose/blob/f300d5a22b53ee3b467b6c92eaec959f9a4faafe/442-4428823_python-logo-hd-png-download.png)
 
 **Certifictions**
 TBD
