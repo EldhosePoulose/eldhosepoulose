@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Eldhose Poulose
+### Hi there 👋 I'm Eldhose Poulose 🧔🏻
 
 ![](https://komarev.com/ghpvc/?username=eldhosepoulose&color=blueviolet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -25,9 +25,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 **Certifictions**
 TBD
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
     link = "https://www.linkedin.com/in/pouloseeldhose/"
 
 
