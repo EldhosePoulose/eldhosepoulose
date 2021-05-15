@@ -14,6 +14,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 - 🛸 Places to Visit: 🇮🇪 Ireland 🇸🇪 Sweden 🇳🇴 Norway 🇫🇮 Finland 🇩🇰 Denmark 🇨🇿 Czech 
 
 **My Skills include**
+
 Python R Matlab Git Linux AWS LaTeX
 
 **Certifictions**
