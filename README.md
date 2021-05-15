@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=eldhosepoulose&color=blueviolet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pouloseeldhose/)
 
 
