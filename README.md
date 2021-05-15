@@ -15,10 +15,9 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 
 **My Skills include**
 
-Python R Matlab Git Linux AWS LaTeX
 <img src= "python.svg" width= "50">
 <img src= "Rlogo.svg" width= "50">
-<img src= "MATLAB.png" width= "50">
+<img src= "MATLAB.png" width= "100">
 <img src= "git.svg" width= "50">
 <img src= "linux-tux.svg" width= "50">
 <img src= "aws-svg" width= "50">
