@@ -12,10 +12,10 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
                       - IBM Data Science Professional Certification
 - 🌱 Nurturing skills in Data Science/Machine Learning
 - 💡 I'm interested in all things data: Machine Learning, Data Science, Big Data, Cloud and AI
-- 👯 I’m looking to collaborate on Course Creations.
+- 👯 I’m looking to collaborate on Course creations.
 - 💬 Talk to me about: Travelling, Technology, Interior Designs or anything that interests you.
-- 📚 The Singularity Is Near: When Humans Transcend Biology Book by Ray Kurzweil
-- 🛸 Visited/Lived: 🇨🇭Switzerland 🇩🇪 Germany 🇦🇹 Austria 🇫🇷 France 🇮🇳 India
+- 📚 Book Currently reading "The Singularity Is Near: When Humans Transcend Biology Book by Ray Kurzweil"
+- 🛸 Lived/Visited in: 🇨🇭Switzerland 🇩🇪 Germany 🇦🇹 Austria 🇫🇷 France 🇮🇳 India
 - 🚀 Places to Visit: 🇮🇪 Ireland 🇸🇪 Sweden 🇳🇴 Norway 🇫🇮 Finland 🇩🇰 Denmark 🇨🇿 Czech 
 
 **My Skills include**
