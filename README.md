@@ -11,6 +11,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 
                       - Functional Programming using Haskell, Compiler Construction and Semantics.
                       - IBM Data Science Professional Certification
+                     
 - 🌱 Nurturing skills in Data Science/Machine Learning
 - 💡 I'm interested in all things data: Machine Learning, Data Science, Big Data, Cloud and AI
 - 👯 I’m looking to collaborate on Course creations.
@@ -25,6 +26,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 
 
 **Certifictions**
+
 TBD
     
 
