@@ -17,7 +17,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 - 💡 I'm interested in discussing topics from Machine Learning, Data Science, Big Data, Cloud and AI
 - 👯 I’m looking to collaborate on Data Science/Machine Learning Course creations.
 - 💬 Talk to me about: Travelling, Technology, Interior Designs or anything that interests you.
-- 📚 Book Currently reading "The Singularity Is Near: When Humans Transcend Biology Book by Ray Kurzweil"
+- 📚 Book that I am currently reading "The Singularity Is Near: When Humans Transcend Biology Book by Ray Kurzweil"
 - 🛸 Lived/Visited in: 🇨🇭Switzerland 🇩🇪 Germany 🇦🇹 Austria 🇫🇷 France 🇮🇳 India
 - 🚀 Places to Visit: 🇮🇪 Ireland 🇸🇪 Sweden 🇳🇴 Norway 🇫🇮 Finland 🇩🇰 Denmark 🇨🇿 Czech 
 
