@@ -10,7 +10,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 - 🔭 I’m currently working on 
 
                       - Functional Programming using Haskell, Compiler Construction and Semantics.
-                      - IBM Data Science Professional Certification (Finished 14.06.2021)
+                      - IBM Data Science Professional Certification (Achieved on 14.06.2021)
                       
 - 👓 I'm currently looking for Internship/Master Thesis positions in Switzerland and Germany.
 - 🌱 Nurturing skills in Data Science/Machine Learning
