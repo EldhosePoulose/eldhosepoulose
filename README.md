@@ -14,7 +14,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
                       
 - 👓 I'm currently looking for Internship/Master Thesis positions in Switzerland/Germany.
 - 🌱 Nurturing skills in Data Science/Machine Learning
-- 💡 I'm interested in all things data: Machine Learning, Data Science, Big Data, Cloud and AI
+- 💡 I'm interested in discussing topics from Machine Learning, Data Science, Big Data, Cloud and AI
 - 👯 I’m looking to collaborate on Data Science/Machine Learning Course creations.
 - 💬 Talk to me about: Travelling, Technology, Interior Designs or anything that interests you.
 - 📚 Book Currently reading "The Singularity Is Near: When Humans Transcend Biology Book by Ray Kurzweil"
