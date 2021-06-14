@@ -31,7 +31,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
  - IBM Data Science Professional Certification (Achieved on 14.06.2021)
  - https://coursera.org/share/e86a4ae2586f45c781c1c5f72477da68
  
- <img src= "https://github.com/EldhosePoulose/eldhosepoulose/blob/d72f951795e269f37c268dec154959f5f1b8c07a/IBM-Data-Science-Professional-Certificate.pdf" width= "500">
+ <pdf src= "https://github.com/EldhosePoulose/eldhosepoulose/blob/d72f951795e269f37c268dec154959f5f1b8c07a/IBM-Data-Science-Professional-Certificate.pdf" width= "500">
 
 TBD
     
