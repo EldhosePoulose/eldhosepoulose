@@ -8,8 +8,8 @@
 I hold a Bachelor's in Electronics and Communication Engineering from India, Master's in Computational Life Sciences from Switzerland and I am currently pursuing master's in Artificial Intelligence and Data Science in Germany. My ultimate goal is to work as an AI Engineer. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 
 - 🔭 I’m currently working on 
-                  - my Internship as Data Analyst (started on 01.10.2021)
-                  - EPFL Diploma in Applied Data Science: Machine Learning (started on 15.12.2021)
+                            - my Internship as Data Analyst (started on 01.10.2021)
+                            - EPFL Diploma in Applied Data Science: Machine Learning (started on 15.12.2021)
 
                       
 - 👓 I'm currently looking for Internship/Master Thesis positions in Switzerland/Germany.
