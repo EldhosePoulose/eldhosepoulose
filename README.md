@@ -9,7 +9,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 
 - 🔭 I’m currently working on 
 
-                            - Msc in AI and Data Science
+                            - Msc in AI and Data Science (started on 15.03.2021)
                             - Internship as Data Analyst (started on 01.10.2021)
                             - EPFL Diploma in Applied Data Science: Machine Learning (started on 15.12.2021)
 
