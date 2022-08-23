@@ -14,7 +14,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
                             - EPFL Diploma in Applied Data Science: Machine Learning (started on 15.12.2021)
 
 
-- 👓 I'm currently looking for Internship/Master Thesis positions in Switzerland/Germany.
+- 👓 I'm currently looking for Data Analyst positions in Switzerland/Germany.
 - 🌱 Nurturing skills in Data Science/Machine Learning
 - 💡 I'm interested in discussing topics from Machine Learning, Data Science, Big Data, Cloud and AI
 - 👯 I’m looking to collaborate on Data Science/Machine Learning Course creations.
