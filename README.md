@@ -10,18 +10,18 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 - 🔭 I’m currently working on 
 
                             - Msc in AI and Data Science (started on 15.03.2021)
-                            - Internship as Data Analyst (started on 01.10.2021)
                             - EPFL Diploma in Applied Data Science: Machine Learning (started on 15.12.2021)
 
 
 - 👓 I'm currently looking for Data Analyst positions in Switzerland/Germany.
+- 👨🏽‍💻 Finished Internship as Data Analyst (01.10.2021 - 30.09.2022)
 - 🌱 Nurturing skills in Data Science/Machine Learning
 - 💡 I'm interested in discussing topics from Machine Learning, Data Science, Big Data, Cloud and AI
 - 👯 I’m looking to collaborate on Data Science/Machine Learning Course creations.
 - 💬 Talk to me about: Travelling, Technology, Interior Designs or anything that interests you.
 - 📚 Book that I am currently reading "The Singularity Is Near: When Humans Transcend Biology" Written by Ray Kurzweil
-- 🛸 Lived/Visited in: 🇨🇭Switzerland 🇩🇪 Germany 🇦🇹 Austria 🇫🇷 France 🇮🇳 India
-- 🚀 Places to Visit: 🇮🇪 Ireland 🇸🇪 Sweden 🇳🇴 Norway 🇫🇮 Finland 🇩🇰 Denmark 🇨🇿 Czech 
+- 🛸 Lived/Visited in: 🇨🇭Switzerland 🇩🇪 Germany 🇦🇹 Austria 🇫🇷 France 🇮🇳 India 🇨🇿 Czech 
+- 🚀 Places to Visit: 🇮🇪 Ireland 🇸🇪 Sweden 🇳🇴 Norway 🇫🇮 Finland 🇩🇰 Denmark 🇸🇰Slovakia
 
 **My Skills include**
 
