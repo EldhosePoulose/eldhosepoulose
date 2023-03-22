@@ -14,7 +14,7 @@ I hold a Bachelor's in Electronics and Communication Engineering from India, Mas
 
 
 - 👓 I'm currently looking for Data Analyst positions in Switzerland/Germany.
-- 👨🏽‍💻 Finished Internship as Data Analyst (01.10.2021 - 30.09.2022)
+- 👨🏽‍💻 Finished Internship as Data Scientist (01.10.2021 - 30.09.2022)
 - 🌱 Nurturing skills in Data Science/Machine Learning
 - 💡 I'm interested in discussing topics from Machine Learning, Data Science, Big Data, Cloud and AI
 - 👯 I’m looking to collaborate on Data Science/Machine Learning Course creations.
