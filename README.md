@@ -5,15 +5,10 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pouloseeldhose/)
 
 
-I hold a Bachelor's in Electronics and Communication Engineering from India, Master's in Computational Life Sciences from Switzerland and I am currently pursuing master's in Artificial Intelligence and Data Science in Germany. My ultimate goal is to work as an AI Engineer. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
+I hold a Bachelor's in Electronics and Communication Engineering from India, Master's in Computational Life Sciences from Switzerland. I pursued an MSc in Artificial Intelligence and Data Science in Germany and Czech Republic at THD, Deggendorf and University of South Bohemia, Ceske Budejovice, where I completed all required courseworks. I chose to transition into a full-time data scientist role before completing the thesis component, in order to seize a timely opportunity that aligned strongly with my career goals and practical interests in applied machine learning and analytics. My ultimate goal is to work as an AI Engineer. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 
-- 🔭 I’m currently working on 
-
-                            - Msc in AI and Data Science (started on 15.03.2021)
-                            - EPFL Diploma in Applied Data Science: Machine Learning (started on 15.12.2021)
-
-
-- 👓 I'm currently looking for Data Analyst positions in Switzerland/Germany.
+- 🔭 Currently working as Data Scientist (since 15.05.2023)
+- 🇩🇪🇨🇿 Msc in AI and Data Science (started on 15.03.2021)
 - 👨🏽‍💻 Finished Internship as Data Scientist (01.10.2021 - 30.09.2022)
 - 🌱 Nurturing skills in Data Science/Machine Learning
 - 💡 I'm interested in discussing topics from Machine Learning, Data Science, Big Data, Cloud and AI
